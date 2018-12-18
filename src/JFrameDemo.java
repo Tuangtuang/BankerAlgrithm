@@ -3,9 +3,7 @@ import javax.swing.JLabel;
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.lang.reflect.Modifier;
 import java.util.ArrayList;
-import java.util.InputMismatchException;
 
 public class JFrameDemo extends JFrame {
     public static JTextField[][] vector = new JTextField[3][5];//文本输入框
